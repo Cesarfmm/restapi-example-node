@@ -1,0 +1,23 @@
+[
+    {
+        "Id": 1,
+        "NameProduct": "Manzana",
+        "CategoryProduct": "Frutas",
+        "Description": "Fruta Fresca",
+        "expiration": "2022"
+    },
+    {
+        "Id": 2,
+        "NameProduct": "Cereal",
+        "CategoryProduct": "Granos",
+        "Description": "Cereal Naranita",
+        "expiration": "2023"
+    },
+    {
+        "Id": 3,
+        "NameProduct": "Arroz",
+        "CategoryProduct": "Granos",
+        "Description": "Arroz cuma",
+        "expiration": "2023"
+    }
+]
